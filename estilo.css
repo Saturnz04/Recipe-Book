@@ -1,0 +1,112 @@
+<style>
+
+    #cab{
+        background-color: #d94123;
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+
+    }
+    
+    #pag{
+        background-color: #f9e516;
+        position: absolute;
+        left: 8px;
+        right: 400px;
+        top: 115px;
+        bottom: 90px;
+
+    }
+
+    #menu{
+        background-color: #d94123;
+        font-family: times new roman;
+        position: absolute;
+        left: 951px;
+        right: 0px;
+        top: 115px;
+        bottom: 90px;
+    }
+
+
+    #rod{
+        background-color: #d94123;
+        position: absolute;
+        left: 8px;
+        right: 0px;
+        bottom: 0px;
+    }
+        
+
+    .img1{
+        border:solid;
+        border-radius: 50px 0 50px 0;
+        width: 31.7%;
+        border-color: #020105;
+
+    }
+
+    .img2{
+        height: 80px;
+        width: 100px;
+        position: absolute;
+    }
+
+    .a{
+        background-color: #d94123;
+    }
+
+    .orange{
+        background-color: #f9e516;
+        color: #020105;
+    }
+        
+    .norange{
+        background-color: #d94123;
+        color: #020105;
+    }
+
+
+    .nora{
+        color: #f9e516;
+    }
+
+    .ora{
+        color: #d94123;
+    }
+
+    h1, h2{
+        color: #020105;
+        font-family: times new roman;
+    }
+
+    ol{
+        font-family: times new roman;
+    }
+        
+    p{
+        color: #030305;
+        text-align: center;
+    }
+
+    table{
+        width: 100%;
+        border-color: #030305;
+        border: solid;
+    }
+        
+    th{
+        background-color: #d94123;
+        color: #f9e516;
+    }
+        
+    em, pre, iframe{
+        color: #030305;
+    }
+
+    s{
+        color: yellow;
+    }
+    
+</style>
